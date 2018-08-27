@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="core" level="project" />
-    <orderEntry type="library" name="jl1.0" level="project" />
+    <orderEntry type="library" name="org.processing:core:3.3.7" level="project" />
+    <orderEntry type="library" name="net.compartmental.code:minim:2.2.2" level="project" />
   </component>
 </module>
